@@ -1,7 +1,4 @@
-<p align="center">
-<img height="200" src="./assets/kv.png" alt="to unocss">
-</p>
-<p align="center"> <a href="./README.md">English</a> | 简体中文</p>
+>WIP：提供react 组件引入时，props的代码提示
 
 ## :coffee:
 
